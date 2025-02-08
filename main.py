@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -28,7 +29,8 @@ menu = st.sidebar.radio("📌 Escolha uma Seção:", [
 ])
 
 # Carregar e limpar os dados
-df_analise, df_licoes = load_and_clean_data("f:/Pós/pos-tech-git/fase-5-tech-challenge/data/PEDE 2024 - DATATHON.xlsx")
+data_path = os.path.join(os.path.dirname(__file__), 'data', 'PEDE 2024 - DATATHON.xlsx')
+df_analise, df_licoes = load_and_clean_data(data_path)
 
 # Seção: Visão Geral
 if menu == "🏠 Visão Geral":

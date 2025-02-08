@@ -20,9 +20,8 @@ O dashboard foi implantado no **Streamlit Cloud**. Para acessar a aplicação, b
 
 ```
 
----
-
 ## 💽 Estrutura do Projeto
+
 ```
 projeto/
 ├── data/                      # Dados brutos e processados
