@@ -42,49 +42,49 @@ projeto/
 ### 🏠 Visão Geral
 📌 **Objetivo:** Fornecer uma análise inicial sobre os principais indicadores educacionais.
 
-📌 **Principais Gráficos:**
-🔹 Evolução do Índice de Desenvolvimento Educacional (INDE)
-🔹 Comparação de desempenho por gênero
-🔹 Escolas com melhor desempenho
+📌 **Principais Gráficos:**  
+🔹 Evolução do Índice de Desenvolvimento Educacional (INDE)  
+🔹 Comparação de desempenho por gênero  
+🔹 Escolas com melhor desempenho  
 
 ---
 
 ### 📈 Evolução do Desempenho
 📌 **Objetivo:** Acompanhar o progresso dos alunos e identificar melhorias.
 
-📌 **Principais Gráficos:**
-🔹 Evolução da Defasagem Educacional
-🔹 Evolução do Índice de Ponto de Virada (IPV)
+📌 **Principais Gráficos:**  
+🔹 Evolução da Defasagem Educacional  
+🔹 Evolução do Índice de Ponto de Virada (IPV)  
 
 ---
 
 ### 📘 Engajamento e Notas
 📌 **Objetivo:** Avaliar o impacto do engajamento no desempenho acadêmico.
 
-📌 **Principais Gráficos:**
-🔹 Relação entre lições entregues e notas em Português, Matemática e Inglês
+📌 **Principais Gráficos:**  
+🔹 Relação entre lições entregues e notas em Português, Matemática e Inglês  
 
 ---
 
 ### ⚖️ Comparação por Categoria
 📌 **Objetivo:** Comparar o desempenho dos alunos por diferentes categorias educacionais.
 
-📌 **Principais Gráficos:**
-🔹 Distribuição de alunos por Fase Ideal
+📌 **Principais Gráficos:**  
+🔹 Distribuição de alunos por Fase Ideal  
 
 ---
 
 ### 💡 Conclusões e Insights
 📌 **Objetivo:** Resumir os principais achados e recomendações estratégicas.
 
-📌 **Insights Destacados:**
-🔹 Aumento contínuo do INDE, indicando melhoria na aprendizagem.
-🔹 Redução da Defasagem Educacional, alunos alcançando o nível ideal.
-🔹 Relação forte entre entrega de lições e desempenho acadêmico.
+📌 **Insights Destacados:**  
+🔹 Aumento contínuo do INDE, indicando melhoria na aprendizagem.  
+🔹 Redução da Defasagem Educacional, alunos alcançando o nível ideal.  
+🔹 Relação forte entre entrega de lições e desempenho acadêmico.  
 
-📌 **Recomendações:**
-🔹 Fortalecer acompanhamento de alunos com maior defasagem.
-🔹 Incentivar participação em atividades e entrega de lições.
+📌 **Recomendações:**  
+🔹 Fortalecer acompanhamento de alunos com maior defasagem.  
+🔹 Incentivar participação em atividades e entrega de lições.  
 🔹 Explorar parcerias com escolas para reduzir disparidades.
 
 ---
@@ -94,4 +94,3 @@ projeto/
 - **Streamlit** 📊
 - **Pandas** 💑
 - **Matplotlib** 📊
-```
