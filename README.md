@@ -20,22 +20,19 @@ O dashboard foi implantado no **Streamlit Cloud**. Para acessar a aplicação, b
 
 🔗 [Acessar o Dashboard](https://fase-5-tech-challenge.streamlit.app/)
 
-```
+---
 
 ## 💽 Estrutura do Projeto
-
-```
-
+```bash
 projeto/
-├── data/ # Dados brutos e processados
-│ ├── PEDE 2024 - DATATHON.xlsx  
-├── scripts/ # Scripts de processamento e visualização
-│ ├── data_processing.py # Funções de limpeza e tratamento de dados
-│ ├── visualization.py # Funções para geração de gráficos
-├── main.py # Código principal do Streamlit
-├── requirements.txt # Dependências do projeto
-├── README.md # Documentação do projeto
-
+├── data/                      # Dados brutos e processados
+│   ├── PEDE 2024 - DATATHON.xlsx  
+├── scripts/                   # Scripts de processamento e visualização
+│   ├── data_processing.py      # Funções de limpeza e tratamento de dados
+│   ├── visualization.py        # Funções para geração de gráficos
+├── main.py                     # Código principal do Streamlit
+├── requirements.txt             # Dependências do projeto
+├── README.md                    # Documentação do projeto
 ```
 
 ---
