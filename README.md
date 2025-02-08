@@ -16,7 +16,7 @@ Este projeto apresenta um **dashboard interativo** desenvolvido em **Streamlit**
 ## 🛠️ Como Acessar o Projeto
 O dashboard foi implantado no **Streamlit Cloud**. Para acessar a aplicação, basta clicar no link abaixo:
 
-🔗 [Acessar o Dashboard](https://seu-link-do-streamlit.streamlit.app)
+🔗 [Acessar o Dashboard](https://fase-5-tech-challenge.streamlit.app/)
 
 ```
 
